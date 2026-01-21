@@ -1,0 +1,5 @@
+{
+  "name": "MONOCHROMA Theme Architect",
+  "description": "A dual-mode application providing a live visual preview of the MONOCHROMA Shopify theme alongside the production-ready Liquid source code. Features an AI Architect for theme customization assistance.",
+  "requestFramePermissions": []
+}
